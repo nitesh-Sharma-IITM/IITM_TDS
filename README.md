@@ -1,4 +1,4 @@
-Data was scraped from the GitHub API by filtering users in Chicago with over 100 followers and fetching their most recent repositories. Many AI tools like ChatGPT, Claude,etc. were also used in the process.
+Data was scraped from the GitHub API by filtering users in Chicago with over 100 followers and fetching their most recent repositories. Many AI tools like ChatGPT, Claude,etc. were also used to alter the required code in the process to get desired results.
 
 The slight decline in new repository creation since 2019 could indicate shifting user needs or external factors affecting engagement.
 
